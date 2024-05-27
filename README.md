@@ -25,8 +25,8 @@ This project provides a chat interface that allows users to ask questions about 
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repository-url>
-   cd <repository-directory>
+   git clone https://github.com/varrek/langchainjs-localLLM-chatOverRepo/
+   cd langchainjs-localLLM-chatOverRepo
    ```
 
 2. **Install dependencies:**
