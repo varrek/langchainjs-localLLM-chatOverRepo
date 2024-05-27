@@ -16,7 +16,7 @@ This project provides a chat interface that allows users to ask questions about 
 - Ollama
 
 ## Installation
-0. ** Set up ollama**
+0. **Set up ollama**
    Download [it] (https://ollama.com/download) and install
    Download llama3 model and test it in console:
    ```sh
