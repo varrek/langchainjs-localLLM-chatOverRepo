@@ -13,8 +13,15 @@ This project provides a chat interface that allows users to ask questions about 
 
 - Node.js (v14 or later)
 - GitHub Personal Access Token
+- Ollama
 
 ## Installation
+0. ** Set up ollama**
+   Download [it] (https://ollama.com/download) and install
+   Download llama3 model and test it in console:
+   ```sh
+   ollama run llama3
+   ```
 
 1. **Clone the repository:**
    ```sh
